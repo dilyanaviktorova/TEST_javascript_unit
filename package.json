@@ -1,0 +1,13 @@
+{
+  "name": "unitjavascripttest",
+  "version": "1.0.0",
+  "description": "Unit testing with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Dilyana Viktorova",
+  "license": "ISC",
+  "type": "module"
+}
